@@ -1,0 +1,330 @@
+Código executado via script automatizador de testes.
+09:16:22, 07/07/17, Friday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 28
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 24
+  K......................................: 28
+  Time...................................: 3600.00
+  Seed...................................: 554789019710 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 14
+T2 > Conflitos : 15
+T3 > Conflitos : 15
+T4 > Conflitos : 18
+T5 > Conflitos : 20
+T6 > Conflitos : 20
+T7 > Conflitos : 20
+T8 > Conflitos : 21
+T9 > Conflitos : 21
+T10 > Conflitos : 22
+T11 > Conflitos : 22
+T12 > Conflitos : 22
+T13 > Conflitos : 22
+T14 > Conflitos : 23
+T15 > Conflitos : 23
+T16 > Conflitos : 23
+T17 > Conflitos : 24
+T18 > Conflitos : 26
+T19 > Conflitos : 26
+T20 > Conflitos : 26
+T21 > Conflitos : 27
+T22 > Conflitos : 29
+T23 > Conflitos : 33
+
+Cycle 1 - Conflicts found: 7 (edges), 14 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 15
+T2 > Conflitos : 16
+T3 > Conflitos : 17
+T4 > Conflitos : 18
+T5 > Conflitos : 19
+T6 > Conflitos : 19
+T7 > Conflitos : 19
+T8 > Conflitos : 20
+T9 > Conflitos : 22
+T10 > Conflitos : 22
+T11 > Conflitos : 24
+T12 > Conflitos : 25
+T13 > Conflitos : 25
+T14 > Conflitos : 27
+T15 > Conflitos : 27
+T16 > Conflitos : 28
+T17 > Conflitos : 30
+T18 > Conflitos : 31
+T19 > Conflitos : 32
+T20 > Conflitos : 32
+T21 > Conflitos : 33
+T22 > Conflitos : 34
+T23 > Conflitos : 37
+
+Cycle 2 - Conflicts found: 7 (edges), 14 (vertices)
+
+Threads results:
+T0 > Conflitos : 10
+T1 > Conflitos : 10
+T2 > Conflitos : 20
+T3 > Conflitos : 22
+T4 > Conflitos : 22
+T5 > Conflitos : 23
+T6 > Conflitos : 23
+T7 > Conflitos : 24
+T8 > Conflitos : 24
+T9 > Conflitos : 24
+T10 > Conflitos : 25
+T11 > Conflitos : 26
+T12 > Conflitos : 27
+T13 > Conflitos : 28
+T14 > Conflitos : 28
+T15 > Conflitos : 28
+T16 > Conflitos : 28
+T17 > Conflitos : 29
+T18 > Conflitos : 29
+T19 > Conflitos : 31
+T20 > Conflitos : 31
+T21 > Conflitos : 31
+T22 > Conflitos : 34
+T23 > Conflitos : 37
+
+Cycle 3 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 16
+T2 > Conflitos : 16
+T3 > Conflitos : 17
+T4 > Conflitos : 18
+T5 > Conflitos : 19
+T6 > Conflitos : 19
+T7 > Conflitos : 20
+T8 > Conflitos : 20
+T9 > Conflitos : 21
+T10 > Conflitos : 22
+T11 > Conflitos : 22
+T12 > Conflitos : 24
+T13 > Conflitos : 24
+T14 > Conflitos : 24
+T15 > Conflitos : 25
+T16 > Conflitos : 27
+T17 > Conflitos : 29
+T18 > Conflitos : 30
+T19 > Conflitos : 30
+T20 > Conflitos : 31
+T21 > Conflitos : 33
+T22 > Conflitos : 33
+T23 > Conflitos : 35
+
+Cycle 4 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 13
+T1 > Conflitos : 14
+T2 > Conflitos : 14
+T3 > Conflitos : 18
+T4 > Conflitos : 20
+T5 > Conflitos : 20
+T6 > Conflitos : 22
+T7 > Conflitos : 22
+T8 > Conflitos : 23
+T9 > Conflitos : 23
+T10 > Conflitos : 23
+T11 > Conflitos : 24
+T12 > Conflitos : 24
+T13 > Conflitos : 26
+T14 > Conflitos : 26
+T15 > Conflitos : 26
+T16 > Conflitos : 27
+T17 > Conflitos : 28
+T18 > Conflitos : 28
+T19 > Conflitos : 29
+T20 > Conflitos : 31
+T21 > Conflitos : 32
+T22 > Conflitos : 32
+T23 > Conflitos : 38
+
+Cycle 5 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 11
+T1 > Conflitos : 12
+T2 > Conflitos : 12
+T3 > Conflitos : 12
+T4 > Conflitos : 14
+T5 > Conflitos : 15
+T6 > Conflitos : 17
+T7 > Conflitos : 18
+T8 > Conflitos : 18
+T9 > Conflitos : 20
+T10 > Conflitos : 22
+T11 > Conflitos : 22
+T12 > Conflitos : 22
+T13 > Conflitos : 24
+T14 > Conflitos : 24
+T15 > Conflitos : 24
+T16 > Conflitos : 27
+T17 > Conflitos : 29
+T18 > Conflitos : 30
+T19 > Conflitos : 31
+T20 > Conflitos : 31
+T21 > Conflitos : 32
+T22 > Conflitos : 37
+T23 > Conflitos : 39
+
+Cycle 6 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 12
+T1 > Conflitos : 16
+T2 > Conflitos : 17
+T3 > Conflitos : 18
+T4 > Conflitos : 18
+T5 > Conflitos : 20
+T6 > Conflitos : 20
+T7 > Conflitos : 21
+T8 > Conflitos : 23
+T9 > Conflitos : 23
+T10 > Conflitos : 24
+T11 > Conflitos : 25
+T12 > Conflitos : 25
+T13 > Conflitos : 25
+T14 > Conflitos : 25
+T15 > Conflitos : 25
+T16 > Conflitos : 26
+T17 > Conflitos : 27
+T18 > Conflitos : 27
+T19 > Conflitos : 28
+T20 > Conflitos : 31
+T21 > Conflitos : 32
+T22 > Conflitos : 37
+T23 > Conflitos : 44
+
+Cycle 7 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 12
+T1 > Conflitos : 14
+T2 > Conflitos : 16
+T3 > Conflitos : 18
+T4 > Conflitos : 19
+T5 > Conflitos : 20
+T6 > Conflitos : 21
+T7 > Conflitos : 22
+T8 > Conflitos : 23
+T9 > Conflitos : 23
+T10 > Conflitos : 23
+T11 > Conflitos : 24
+T12 > Conflitos : 24
+T13 > Conflitos : 24
+T14 > Conflitos : 24
+T15 > Conflitos : 25
+T16 > Conflitos : 26
+T17 > Conflitos : 28
+T18 > Conflitos : 28
+T19 > Conflitos : 28
+T20 > Conflitos : 28
+T21 > Conflitos : 30
+T22 > Conflitos : 32
+T23 > Conflitos : 35
+
+Cycle 8 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 12
+T1 > Conflitos : 15
+T2 > Conflitos : 16
+T3 > Conflitos : 16
+T4 > Conflitos : 18
+T5 > Conflitos : 18
+T6 > Conflitos : 19
+T7 > Conflitos : 19
+T8 > Conflitos : 20
+T9 > Conflitos : 20
+T10 > Conflitos : 22
+T11 > Conflitos : 22
+T12 > Conflitos : 22
+T13 > Conflitos : 23
+T14 > Conflitos : 23
+T15 > Conflitos : 24
+T16 > Conflitos : 25
+T17 > Conflitos : 26
+T18 > Conflitos : 27
+T19 > Conflitos : 28
+T20 > Conflitos : 29
+T21 > Conflitos : 34
+T22 > Conflitos : 34
+T23 > Conflitos : 36
+
+Cycle 9 - Conflicts found: 5 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 0
+T1 > Conflitos : 12
+T2 > Conflitos : 15
+T3 > Conflitos : 15
+T4 > Conflitos : 16
+T5 > Conflitos : 16
+T6 > Conflitos : 20
+T7 > Conflitos : 21
+T8 > Conflitos : 21
+T9 > Conflitos : 22
+T10 > Conflitos : 22
+T11 > Conflitos : 22
+T12 > Conflitos : 23
+T13 > Conflitos : 26
+T14 > Conflitos : 26
+T15 > Conflitos : 26
+T16 > Conflitos : 27
+T17 > Conflitos : 27
+T18 > Conflitos : 28
+T19 > Conflitos : 28
+T20 > Conflitos : 30
+T21 > Conflitos : 31
+T22 > Conflitos : 31
+T23 > Conflitos : 35
+
+Cycle 10 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 28
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 12.041736
+Spent Time.........................: 12.041736
+Spent time (ACO)...................: 4.455547
+Spent time (LS)....................: 7.586189
+Time to the best...................: 11.848152
+Total of cycles....................: 10
+Cycles to the best.................: 10
+Stop criterion.....................: 3
+-------------------------------------------------

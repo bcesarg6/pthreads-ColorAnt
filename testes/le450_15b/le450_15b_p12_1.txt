@@ -1,0 +1,111 @@
+Código executado via script automatizador de testes.
+17:42:34, 24/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 15 -k 15
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 12
+  K......................................: 15
+  Time...................................: 3600.00
+  Seed...................................: 154963877353290 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+Cycle 1 - Conflicts found: 12 (edges), 23 (vertices)
+Cycle 2 - Conflicts found: 12 (edges), 21 (vertices)
+Cycle 3 - Conflicts found: 10 (edges), 19 (vertices)
+Cycle 4 - Conflicts found: 10 (edges), 18 (vertices)
+Cycle 5 - Conflicts found: 10 (edges), 18 (vertices)
+Cycle 6 - Conflicts found: 10 (edges), 18 (vertices)
+Cycle 7 - Conflicts found: 10 (edges), 18 (vertices)
+Cycle 8 - Conflicts found: 10 (edges), 18 (vertices)
+Cycle 9 - Conflicts found: 9 (edges), 17 (vertices)
+Cycle 10 - Conflicts found: 9 (edges), 17 (vertices)
+Cycle 11 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 12 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 13 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 14 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 15 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 16 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 17 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 18 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 19 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 20 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 21 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 22 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 23 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 24 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 25 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 26 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 27 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 28 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 29 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 30 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 31 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 32 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 33 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 34 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 35 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 36 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 37 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 38 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 39 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 40 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 41 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 42 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 43 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 44 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 45 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 46 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 47 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 48 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 49 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 50 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 51 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 52 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 53 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 54 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 55 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 56 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 57 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 58 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 59 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 60 - Conflicts found: 5 (edges), 10 (vertices)
+Cycle 61 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 15
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 86.475287
+Spent Time.........................: 86.475286
+Spent time (ACO)...................: 60.897225
+Spent time (LS)....................: 25.578061
+Time to the best...................: 86.126362
+Total of cycles....................: 61
+Cycles to the best.................: 61
+Stop criterion.....................: 3
+-------------------------------------------------

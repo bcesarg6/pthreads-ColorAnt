@@ -1,0 +1,1490 @@
+Código executado via script automatizador de testes.
+00:39:20, 08/07/17, Saturday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 15
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 6
+  K......................................: 15
+  Time...................................: 3600.00
+  Seed...................................: 16211455489416 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+
+Threads results:
+T0 > Conflitos : 38
+T1 > Conflitos : 38
+T2 > Conflitos : 38
+T3 > Conflitos : 39
+T4 > Conflitos : 47
+T5 > Conflitos : 50
+
+Cycle 1 - Conflicts found: 23 (edges), 38 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 30
+T2 > Conflitos : 42
+T3 > Conflitos : 45
+T4 > Conflitos : 47
+T5 > Conflitos : 51
+
+Cycle 2 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 31
+T1 > Conflitos : 37
+T2 > Conflitos : 39
+T3 > Conflitos : 41
+T4 > Conflitos : 52
+T5 > Conflitos : 55
+
+Cycle 3 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 30
+T2 > Conflitos : 45
+T3 > Conflitos : 46
+T4 > Conflitos : 47
+T5 > Conflitos : 78
+
+Cycle 4 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 28
+T1 > Conflitos : 35
+T2 > Conflitos : 45
+T3 > Conflitos : 48
+T4 > Conflitos : 52
+T5 > Conflitos : 61
+
+Cycle 5 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 36
+T1 > Conflitos : 39
+T2 > Conflitos : 47
+T3 > Conflitos : 49
+T4 > Conflitos : 50
+T5 > Conflitos : 51
+
+Cycle 6 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 34
+T2 > Conflitos : 40
+T3 > Conflitos : 40
+T4 > Conflitos : 48
+T5 > Conflitos : 54
+
+Cycle 7 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 44
+T2 > Conflitos : 50
+T3 > Conflitos : 54
+T4 > Conflitos : 55
+T5 > Conflitos : 70
+
+Cycle 8 - Conflicts found: 17 (edges), 24 (vertices)
+
+Threads results:
+T0 > Conflitos : 21
+T1 > Conflitos : 23
+T2 > Conflitos : 37
+T3 > Conflitos : 41
+T4 > Conflitos : 49
+T5 > Conflitos : 50
+
+Cycle 9 - Conflicts found: 15 (edges), 21 (vertices)
+
+Threads results:
+T0 > Conflitos : 10
+T1 > Conflitos : 25
+T2 > Conflitos : 31
+T3 > Conflitos : 36
+T4 > Conflitos : 36
+T5 > Conflitos : 48
+
+Cycle 10 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 23
+T2 > Conflitos : 39
+T3 > Conflitos : 40
+T4 > Conflitos : 40
+T5 > Conflitos : 45
+
+Cycle 11 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 35
+T2 > Conflitos : 36
+T3 > Conflitos : 37
+T4 > Conflitos : 39
+T5 > Conflitos : 45
+
+Cycle 12 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 35
+T2 > Conflitos : 36
+T3 > Conflitos : 37
+T4 > Conflitos : 40
+T5 > Conflitos : 44
+
+Cycle 13 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 33
+T2 > Conflitos : 36
+T3 > Conflitos : 45
+T4 > Conflitos : 46
+T5 > Conflitos : 59
+
+Cycle 14 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 25
+T2 > Conflitos : 28
+T3 > Conflitos : 39
+T4 > Conflitos : 39
+T5 > Conflitos : 46
+
+Cycle 15 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 25
+T2 > Conflitos : 28
+T3 > Conflitos : 29
+T4 > Conflitos : 33
+T5 > Conflitos : 39
+
+Cycle 16 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 24
+T2 > Conflitos : 30
+T3 > Conflitos : 31
+T4 > Conflitos : 39
+T5 > Conflitos : 51
+
+Cycle 17 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 27
+T2 > Conflitos : 29
+T3 > Conflitos : 31
+T4 > Conflitos : 33
+T5 > Conflitos : 38
+
+Cycle 18 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 13
+T1 > Conflitos : 23
+T2 > Conflitos : 29
+T3 > Conflitos : 36
+T4 > Conflitos : 38
+T5 > Conflitos : 39
+
+Cycle 19 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 22
+T1 > Conflitos : 27
+T2 > Conflitos : 27
+T3 > Conflitos : 35
+T4 > Conflitos : 35
+T5 > Conflitos : 44
+
+Cycle 20 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 13
+T1 > Conflitos : 26
+T2 > Conflitos : 28
+T3 > Conflitos : 31
+T4 > Conflitos : 35
+T5 > Conflitos : 45
+
+Cycle 21 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 32
+T2 > Conflitos : 32
+T3 > Conflitos : 36
+T4 > Conflitos : 48
+T5 > Conflitos : 60
+
+Cycle 22 - Conflicts found: 6 (edges), 10 (vertices)
+
+Threads results:
+T0 > Conflitos : 6
+T1 > Conflitos : 22
+T2 > Conflitos : 27
+T3 > Conflitos : 36
+T4 > Conflitos : 38
+T5 > Conflitos : 60
+
+Cycle 23 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 13
+T1 > Conflitos : 25
+T2 > Conflitos : 30
+T3 > Conflitos : 31
+T4 > Conflitos : 40
+T5 > Conflitos : 42
+
+Cycle 24 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 12
+T1 > Conflitos : 21
+T2 > Conflitos : 22
+T3 > Conflitos : 27
+T4 > Conflitos : 33
+T5 > Conflitos : 42
+
+Cycle 25 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 22
+T1 > Conflitos : 24
+T2 > Conflitos : 24
+T3 > Conflitos : 33
+T4 > Conflitos : 37
+T5 > Conflitos : 39
+
+Cycle 26 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 11
+T1 > Conflitos : 26
+T2 > Conflitos : 32
+T3 > Conflitos : 32
+T4 > Conflitos : 34
+T5 > Conflitos : 35
+
+Cycle 27 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 27
+T2 > Conflitos : 31
+T3 > Conflitos : 34
+T4 > Conflitos : 38
+T5 > Conflitos : 43
+
+Cycle 28 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 9
+T1 > Conflitos : 16
+T2 > Conflitos : 29
+T3 > Conflitos : 31
+T4 > Conflitos : 38
+T5 > Conflitos : 39
+
+Cycle 29 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 24
+T2 > Conflitos : 24
+T3 > Conflitos : 25
+T4 > Conflitos : 30
+T5 > Conflitos : 40
+
+Cycle 30 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 25
+T2 > Conflitos : 30
+T3 > Conflitos : 32
+T4 > Conflitos : 35
+T5 > Conflitos : 35
+
+Cycle 31 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 21
+T1 > Conflitos : 22
+T2 > Conflitos : 23
+T3 > Conflitos : 28
+T4 > Conflitos : 29
+T5 > Conflitos : 39
+
+Cycle 32 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 23
+T2 > Conflitos : 27
+T3 > Conflitos : 27
+T4 > Conflitos : 34
+T5 > Conflitos : 36
+
+Cycle 33 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 16
+T1 > Conflitos : 23
+T2 > Conflitos : 28
+T3 > Conflitos : 29
+T4 > Conflitos : 36
+T5 > Conflitos : 43
+
+Cycle 34 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 24
+T2 > Conflitos : 26
+T3 > Conflitos : 26
+T4 > Conflitos : 34
+T5 > Conflitos : 39
+
+Cycle 35 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 26
+T2 > Conflitos : 29
+T3 > Conflitos : 40
+T4 > Conflitos : 45
+T5 > Conflitos : 56
+
+Cycle 36 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 12
+T1 > Conflitos : 20
+T2 > Conflitos : 24
+T3 > Conflitos : 25
+T4 > Conflitos : 30
+T5 > Conflitos : 38
+
+Cycle 37 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 21
+T2 > Conflitos : 24
+T3 > Conflitos : 27
+T4 > Conflitos : 28
+T5 > Conflitos : 30
+
+Cycle 38 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 34
+T2 > Conflitos : 35
+T3 > Conflitos : 37
+T4 > Conflitos : 41
+T5 > Conflitos : 42
+
+Cycle 39 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 27
+T2 > Conflitos : 30
+T3 > Conflitos : 34
+T4 > Conflitos : 37
+T5 > Conflitos : 40
+
+Cycle 40 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 25
+T2 > Conflitos : 27
+T3 > Conflitos : 28
+T4 > Conflitos : 31
+T5 > Conflitos : 31
+
+Cycle 41 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 22
+T2 > Conflitos : 23
+T3 > Conflitos : 25
+T4 > Conflitos : 39
+T5 > Conflitos : 51
+
+Cycle 42 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 10
+T1 > Conflitos : 12
+T2 > Conflitos : 22
+T3 > Conflitos : 24
+T4 > Conflitos : 33
+T5 > Conflitos : 49
+
+Cycle 43 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 16
+T1 > Conflitos : 19
+T2 > Conflitos : 23
+T3 > Conflitos : 24
+T4 > Conflitos : 27
+T5 > Conflitos : 28
+
+Cycle 44 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 25
+T1 > Conflitos : 26
+T2 > Conflitos : 31
+T3 > Conflitos : 35
+T4 > Conflitos : 37
+T5 > Conflitos : 51
+
+Cycle 45 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 25
+T1 > Conflitos : 26
+T2 > Conflitos : 33
+T3 > Conflitos : 36
+T4 > Conflitos : 38
+T5 > Conflitos : 38
+
+Cycle 46 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 28
+T2 > Conflitos : 28
+T3 > Conflitos : 32
+T4 > Conflitos : 34
+T5 > Conflitos : 41
+
+Cycle 47 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 27
+T2 > Conflitos : 30
+T3 > Conflitos : 33
+T4 > Conflitos : 34
+T5 > Conflitos : 34
+
+Cycle 48 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 22
+T1 > Conflitos : 24
+T2 > Conflitos : 25
+T3 > Conflitos : 27
+T4 > Conflitos : 28
+T5 > Conflitos : 29
+
+Cycle 49 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 26
+T2 > Conflitos : 27
+T3 > Conflitos : 30
+T4 > Conflitos : 33
+T5 > Conflitos : 45
+
+Cycle 50 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 25
+T2 > Conflitos : 25
+T3 > Conflitos : 29
+T4 > Conflitos : 36
+T5 > Conflitos : 49
+
+Cycle 51 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 23
+T2 > Conflitos : 27
+T3 > Conflitos : 30
+T4 > Conflitos : 33
+T5 > Conflitos : 57
+
+Cycle 52 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 25
+T1 > Conflitos : 30
+T2 > Conflitos : 30
+T3 > Conflitos : 32
+T4 > Conflitos : 35
+T5 > Conflitos : 42
+
+Cycle 53 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 32
+T2 > Conflitos : 33
+T3 > Conflitos : 39
+T4 > Conflitos : 45
+T5 > Conflitos : 54
+
+Cycle 54 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 36
+T1 > Conflitos : 41
+T2 > Conflitos : 49
+T3 > Conflitos : 52
+T4 > Conflitos : 55
+T5 > Conflitos : 63
+
+Cycle 55 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 19
+T1 > Conflitos : 32
+T2 > Conflitos : 39
+T3 > Conflitos : 40
+T4 > Conflitos : 46
+T5 > Conflitos : 55
+
+Cycle 56 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 43
+T1 > Conflitos : 44
+T2 > Conflitos : 44
+T3 > Conflitos : 47
+T4 > Conflitos : 50
+T5 > Conflitos : 66
+
+Cycle 57 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 32
+T2 > Conflitos : 33
+T3 > Conflitos : 36
+T4 > Conflitos : 40
+T5 > Conflitos : 49
+
+Cycle 58 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 22
+T1 > Conflitos : 41
+T2 > Conflitos : 42
+T3 > Conflitos : 45
+T4 > Conflitos : 47
+T5 > Conflitos : 64
+
+Cycle 59 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 38
+T1 > Conflitos : 40
+T2 > Conflitos : 46
+T3 > Conflitos : 47
+T4 > Conflitos : 50
+T5 > Conflitos : 52
+
+Cycle 60 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 36
+T2 > Conflitos : 38
+T3 > Conflitos : 51
+T4 > Conflitos : 52
+T5 > Conflitos : 63
+
+Cycle 61 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 32
+T2 > Conflitos : 43
+T3 > Conflitos : 51
+T4 > Conflitos : 61
+T5 > Conflitos : 67
+
+Cycle 62 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 33
+T2 > Conflitos : 38
+T3 > Conflitos : 49
+T4 > Conflitos : 50
+T5 > Conflitos : 55
+
+Cycle 63 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 39
+T2 > Conflitos : 42
+T3 > Conflitos : 46
+T4 > Conflitos : 61
+T5 > Conflitos : 63
+
+Cycle 64 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 19
+T1 > Conflitos : 31
+T2 > Conflitos : 34
+T3 > Conflitos : 36
+T4 > Conflitos : 51
+T5 > Conflitos : 54
+
+Cycle 65 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 39
+T2 > Conflitos : 46
+T3 > Conflitos : 47
+T4 > Conflitos : 53
+T5 > Conflitos : 56
+
+Cycle 66 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 13
+T1 > Conflitos : 31
+T2 > Conflitos : 33
+T3 > Conflitos : 46
+T4 > Conflitos : 48
+T5 > Conflitos : 66
+
+Cycle 67 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 46
+T2 > Conflitos : 54
+T3 > Conflitos : 56
+T4 > Conflitos : 58
+T5 > Conflitos : 78
+
+Cycle 68 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 42
+T2 > Conflitos : 43
+T3 > Conflitos : 50
+T4 > Conflitos : 51
+T5 > Conflitos : 62
+
+Cycle 69 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 27
+T2 > Conflitos : 29
+T3 > Conflitos : 36
+T4 > Conflitos : 51
+T5 > Conflitos : 55
+
+Cycle 70 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 34
+T2 > Conflitos : 41
+T3 > Conflitos : 44
+T4 > Conflitos : 44
+T5 > Conflitos : 61
+
+Cycle 71 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 33
+T1 > Conflitos : 36
+T2 > Conflitos : 46
+T3 > Conflitos : 47
+T4 > Conflitos : 56
+T5 > Conflitos : 59
+
+Cycle 72 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 36
+T1 > Conflitos : 37
+T2 > Conflitos : 43
+T3 > Conflitos : 52
+T4 > Conflitos : 54
+T5 > Conflitos : 57
+
+Cycle 73 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 33
+T2 > Conflitos : 36
+T3 > Conflitos : 50
+T4 > Conflitos : 52
+T5 > Conflitos : 55
+
+Cycle 74 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 33
+T2 > Conflitos : 34
+T3 > Conflitos : 34
+T4 > Conflitos : 37
+T5 > Conflitos : 51
+
+Cycle 75 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 45
+T2 > Conflitos : 47
+T3 > Conflitos : 47
+T4 > Conflitos : 53
+T5 > Conflitos : 55
+
+Cycle 76 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 41
+T2 > Conflitos : 42
+T3 > Conflitos : 44
+T4 > Conflitos : 50
+T5 > Conflitos : 57
+
+Cycle 77 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 28
+T1 > Conflitos : 33
+T2 > Conflitos : 40
+T3 > Conflitos : 44
+T4 > Conflitos : 44
+T5 > Conflitos : 67
+
+Cycle 78 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 41
+T2 > Conflitos : 42
+T3 > Conflitos : 45
+T4 > Conflitos : 53
+T5 > Conflitos : 60
+
+Cycle 79 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 17
+T1 > Conflitos : 26
+T2 > Conflitos : 36
+T3 > Conflitos : 41
+T4 > Conflitos : 45
+T5 > Conflitos : 57
+
+Cycle 80 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 19
+T1 > Conflitos : 21
+T2 > Conflitos : 49
+T3 > Conflitos : 51
+T4 > Conflitos : 57
+T5 > Conflitos : 60
+
+Cycle 81 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 24
+T1 > Conflitos : 40
+T2 > Conflitos : 46
+T3 > Conflitos : 51
+T4 > Conflitos : 58
+T5 > Conflitos : 68
+
+Cycle 82 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 33
+T1 > Conflitos : 36
+T2 > Conflitos : 45
+T3 > Conflitos : 45
+T4 > Conflitos : 56
+T5 > Conflitos : 67
+
+Cycle 83 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 33
+T1 > Conflitos : 45
+T2 > Conflitos : 49
+T3 > Conflitos : 54
+T4 > Conflitos : 55
+T5 > Conflitos : 56
+
+Cycle 84 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 10
+T1 > Conflitos : 40
+T2 > Conflitos : 41
+T3 > Conflitos : 44
+T4 > Conflitos : 47
+T5 > Conflitos : 49
+
+Cycle 85 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 38
+T1 > Conflitos : 50
+T2 > Conflitos : 51
+T3 > Conflitos : 51
+T4 > Conflitos : 52
+T5 > Conflitos : 83
+
+Cycle 86 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 17
+T1 > Conflitos : 36
+T2 > Conflitos : 45
+T3 > Conflitos : 60
+T4 > Conflitos : 60
+T5 > Conflitos : 62
+
+Cycle 87 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 28
+T2 > Conflitos : 30
+T3 > Conflitos : 45
+T4 > Conflitos : 50
+T5 > Conflitos : 57
+
+Cycle 88 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 18
+T1 > Conflitos : 21
+T2 > Conflitos : 49
+T3 > Conflitos : 52
+T4 > Conflitos : 59
+T5 > Conflitos : 64
+
+Cycle 89 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 21
+T1 > Conflitos : 23
+T2 > Conflitos : 26
+T3 > Conflitos : 29
+T4 > Conflitos : 46
+T5 > Conflitos : 50
+
+Cycle 90 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 34
+T1 > Conflitos : 39
+T2 > Conflitos : 39
+T3 > Conflitos : 48
+T4 > Conflitos : 49
+T5 > Conflitos : 51
+
+Cycle 91 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 30
+T2 > Conflitos : 33
+T3 > Conflitos : 39
+T4 > Conflitos : 54
+T5 > Conflitos : 58
+
+Cycle 92 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 35
+T2 > Conflitos : 38
+T3 > Conflitos : 47
+T4 > Conflitos : 61
+T5 > Conflitos : 67
+
+Cycle 93 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 23
+T1 > Conflitos : 27
+T2 > Conflitos : 42
+T3 > Conflitos : 47
+T4 > Conflitos : 50
+T5 > Conflitos : 60
+
+Cycle 94 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 43
+T1 > Conflitos : 45
+T2 > Conflitos : 49
+T3 > Conflitos : 56
+T4 > Conflitos : 57
+T5 > Conflitos : 58
+
+Cycle 95 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 39
+T1 > Conflitos : 40
+T2 > Conflitos : 40
+T3 > Conflitos : 45
+T4 > Conflitos : 56
+T5 > Conflitos : 59
+
+Cycle 96 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 33
+T2 > Conflitos : 39
+T3 > Conflitos : 46
+T4 > Conflitos : 56
+T5 > Conflitos : 60
+
+Cycle 97 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 33
+T2 > Conflitos : 34
+T3 > Conflitos : 51
+T4 > Conflitos : 52
+T5 > Conflitos : 58
+
+Cycle 98 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 42
+T2 > Conflitos : 42
+T3 > Conflitos : 45
+T4 > Conflitos : 45
+T5 > Conflitos : 49
+
+Cycle 99 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 40
+T2 > Conflitos : 46
+T3 > Conflitos : 54
+T4 > Conflitos : 58
+T5 > Conflitos : 75
+
+Cycle 100 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 37
+T2 > Conflitos : 39
+T3 > Conflitos : 48
+T4 > Conflitos : 52
+T5 > Conflitos : 76
+
+Cycle 101 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 35
+T2 > Conflitos : 41
+T3 > Conflitos : 47
+T4 > Conflitos : 49
+T5 > Conflitos : 71
+
+Cycle 102 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 31
+T1 > Conflitos : 45
+T2 > Conflitos : 50
+T3 > Conflitos : 51
+T4 > Conflitos : 58
+T5 > Conflitos : 74
+
+Cycle 103 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 48
+T1 > Conflitos : 49
+T2 > Conflitos : 50
+T3 > Conflitos : 58
+T4 > Conflitos : 61
+T5 > Conflitos : 61
+
+Cycle 104 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 36
+T1 > Conflitos : 42
+T2 > Conflitos : 46
+T3 > Conflitos : 52
+T4 > Conflitos : 56
+T5 > Conflitos : 74
+
+Cycle 105 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 32
+T2 > Conflitos : 42
+T3 > Conflitos : 45
+T4 > Conflitos : 72
+T5 > Conflitos : 75
+
+Cycle 106 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 51
+T2 > Conflitos : 59
+T3 > Conflitos : 64
+T4 > Conflitos : 64
+T5 > Conflitos : 76
+
+Cycle 107 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 17
+T1 > Conflitos : 33
+T2 > Conflitos : 43
+T3 > Conflitos : 44
+T4 > Conflitos : 56
+T5 > Conflitos : 59
+
+Cycle 108 - Conflicts found: 4 (edges), 6 (vertices)
+
+Threads results:
+T0 > Conflitos : 5
+T1 > Conflitos : 45
+T2 > Conflitos : 50
+T3 > Conflitos : 53
+T4 > Conflitos : 58
+T5 > Conflitos : 65
+
+Cycle 109 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 34
+T1 > Conflitos : 42
+T2 > Conflitos : 45
+T3 > Conflitos : 48
+T4 > Conflitos : 55
+T5 > Conflitos : 66
+
+Cycle 110 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 40
+T2 > Conflitos : 41
+T3 > Conflitos : 49
+T4 > Conflitos : 56
+T5 > Conflitos : 58
+
+Cycle 111 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 45
+T1 > Conflitos : 45
+T2 > Conflitos : 46
+T3 > Conflitos : 47
+T4 > Conflitos : 62
+T5 > Conflitos : 66
+
+Cycle 112 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 43
+T1 > Conflitos : 52
+T2 > Conflitos : 53
+T3 > Conflitos : 54
+T4 > Conflitos : 57
+T5 > Conflitos : 60
+
+Cycle 113 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 33
+T2 > Conflitos : 46
+T3 > Conflitos : 48
+T4 > Conflitos : 48
+T5 > Conflitos : 61
+
+Cycle 114 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 38
+T2 > Conflitos : 39
+T3 > Conflitos : 44
+T4 > Conflitos : 49
+T5 > Conflitos : 51
+
+Cycle 115 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 36
+T2 > Conflitos : 50
+T3 > Conflitos : 54
+T4 > Conflitos : 56
+T5 > Conflitos : 66
+
+Cycle 116 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 20
+T1 > Conflitos : 28
+T2 > Conflitos : 37
+T3 > Conflitos : 40
+T4 > Conflitos : 44
+T5 > Conflitos : 56
+
+Cycle 117 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 34
+T1 > Conflitos : 37
+T2 > Conflitos : 48
+T3 > Conflitos : 57
+T4 > Conflitos : 62
+T5 > Conflitos : 67
+
+Cycle 118 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 18
+T2 > Conflitos : 30
+T3 > Conflitos : 43
+T4 > Conflitos : 45
+T5 > Conflitos : 47
+
+Cycle 119 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 33
+T2 > Conflitos : 37
+T3 > Conflitos : 43
+T4 > Conflitos : 53
+T5 > Conflitos : 58
+
+Cycle 120 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 31
+T1 > Conflitos : 36
+T2 > Conflitos : 51
+T3 > Conflitos : 54
+T4 > Conflitos : 54
+T5 > Conflitos : 65
+
+Cycle 121 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 29
+T2 > Conflitos : 31
+T3 > Conflitos : 39
+T4 > Conflitos : 41
+T5 > Conflitos : 42
+
+Cycle 122 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 33
+T1 > Conflitos : 37
+T2 > Conflitos : 48
+T3 > Conflitos : 51
+T4 > Conflitos : 55
+T5 > Conflitos : 62
+
+Cycle 123 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 34
+T2 > Conflitos : 39
+T3 > Conflitos : 41
+T4 > Conflitos : 68
+T5 > Conflitos : 71
+
+Cycle 124 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 44
+T2 > Conflitos : 46
+T3 > Conflitos : 47
+T4 > Conflitos : 52
+T5 > Conflitos : 56
+
+Cycle 125 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 16
+T1 > Conflitos : 33
+T2 > Conflitos : 39
+T3 > Conflitos : 42
+T4 > Conflitos : 52
+T5 > Conflitos : 63
+
+Cycle 126 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 38
+T2 > Conflitos : 53
+T3 > Conflitos : 63
+T4 > Conflitos : 64
+T5 > Conflitos : 66
+
+Cycle 127 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 22
+T1 > Conflitos : 26
+T2 > Conflitos : 42
+T3 > Conflitos : 48
+T4 > Conflitos : 64
+T5 > Conflitos : 64
+
+Cycle 128 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 29
+T1 > Conflitos : 32
+T2 > Conflitos : 34
+T3 > Conflitos : 34
+T4 > Conflitos : 38
+T5 > Conflitos : 45
+
+Cycle 129 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 26
+T1 > Conflitos : 32
+T2 > Conflitos : 35
+T3 > Conflitos : 45
+T4 > Conflitos : 57
+T5 > Conflitos : 71
+
+Cycle 130 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 28
+T1 > Conflitos : 45
+T2 > Conflitos : 48
+T3 > Conflitos : 49
+T4 > Conflitos : 51
+T5 > Conflitos : 65
+
+Cycle 131 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 24
+T2 > Conflitos : 40
+T3 > Conflitos : 48
+T4 > Conflitos : 50
+T5 > Conflitos : 55
+
+Cycle 132 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 27
+T1 > Conflitos : 40
+T2 > Conflitos : 50
+T3 > Conflitos : 52
+T4 > Conflitos : 52
+T5 > Conflitos : 58
+
+Cycle 133 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 44
+T1 > Conflitos : 53
+T2 > Conflitos : 56
+T3 > Conflitos : 57
+T4 > Conflitos : 62
+T5 > Conflitos : 64
+
+Cycle 134 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 28
+T1 > Conflitos : 40
+T2 > Conflitos : 42
+T3 > Conflitos : 60
+T4 > Conflitos : 67
+T5 > Conflitos : 68
+
+Cycle 135 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 31
+T1 > Conflitos : 37
+T2 > Conflitos : 39
+T3 > Conflitos : 40
+T4 > Conflitos : 44
+T5 > Conflitos : 48
+
+Cycle 136 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 32
+T1 > Conflitos : 33
+T2 > Conflitos : 39
+T3 > Conflitos : 42
+T4 > Conflitos : 46
+T5 > Conflitos : 62
+
+Cycle 137 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 16
+T1 > Conflitos : 46
+T2 > Conflitos : 51
+T3 > Conflitos : 51
+T4 > Conflitos : 52
+T5 > Conflitos : 64
+
+Cycle 138 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 33
+T1 > Conflitos : 45
+T2 > Conflitos : 50
+T3 > Conflitos : 66
+T4 > Conflitos : 67
+T5 > Conflitos : 72
+
+Cycle 139 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 40
+T1 > Conflitos : 42
+T2 > Conflitos : 45
+T3 > Conflitos : 52
+T4 > Conflitos : 54
+T5 > Conflitos : 59
+
+Cycle 140 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 30
+T1 > Conflitos : 36
+T2 > Conflitos : 39
+T3 > Conflitos : 41
+T4 > Conflitos : 50
+T5 > Conflitos : 62
+
+Cycle 141 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 34
+T1 > Conflitos : 37
+T2 > Conflitos : 38
+T3 > Conflitos : 41
+T4 > Conflitos : 48
+T5 > Conflitos : 70
+
+Cycle 142 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 34
+T2 > Conflitos : 45
+T3 > Conflitos : 48
+T4 > Conflitos : 58
+T5 > Conflitos : 58
+
+Cycle 143 - Conflicts found: 3 (edges), 5 (vertices)
+
+Threads results:
+T0 > Conflitos : 0
+T1 > Conflitos : 34
+T2 > Conflitos : 44
+T3 > Conflitos : 49
+T4 > Conflitos : 53
+T5 > Conflitos : 64
+
+Cycle 144 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 15
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 161.989663
+Spent Time.........................: 161.989663
+Spent time (ACO)...................: 104.957923
+Spent time (LS)....................: 57.031740
+Time to the best...................: 161.599617
+Total of cycles....................: 144
+Cycles to the best.................: 144
+Stop criterion.....................: 3
+-------------------------------------------------

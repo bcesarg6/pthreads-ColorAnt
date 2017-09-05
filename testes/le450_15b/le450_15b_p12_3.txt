@@ -1,0 +1,64 @@
+Código executado via script automatizador de testes.
+17:50:08, 24/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 15 -k 15
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 12
+  K......................................: 15
+  Time...................................: 3600.00
+  Seed...................................: 147508340359424 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+Cycle 1 - Conflicts found: 12 (edges), 24 (vertices)
+Cycle 2 - Conflicts found: 12 (edges), 24 (vertices)
+Cycle 3 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 4 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 5 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 6 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 7 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 8 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 9 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 10 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 11 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 12 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 13 - Conflicts found: 9 (edges), 16 (vertices)
+Cycle 14 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 15
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 19.903008
+Spent Time.........................: 19.903007
+Spent time (ACO)...................: 13.998590
+Spent time (LS)....................: 5.904417
+Time to the best...................: 19.841052
+Total of cycles....................: 14
+Cycles to the best.................: 14
+Stop criterion.....................: 3
+-------------------------------------------------

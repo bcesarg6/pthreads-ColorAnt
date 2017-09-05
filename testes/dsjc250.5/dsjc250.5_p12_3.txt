@@ -1,0 +1,114 @@
+Código executado via script automatizador de testes.
+09:14:05, 07/07/17, Friday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 28
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 12
+  K......................................: 28
+  Time...................................: 3600.00
+  Seed...................................: 113805210625855 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+
+Threads results:
+T0 > Conflitos : 14
+T1 > Conflitos : 14
+T2 > Conflitos : 16
+T3 > Conflitos : 20
+T4 > Conflitos : 22
+T5 > Conflitos : 22
+T6 > Conflitos : 25
+T7 > Conflitos : 25
+T8 > Conflitos : 27
+T9 > Conflitos : 28
+T10 > Conflitos : 31
+T11 > Conflitos : 40
+
+Cycle 1 - Conflicts found: 7 (edges), 14 (vertices)
+
+Threads results:
+T0 > Conflitos : 17
+T1 > Conflitos : 19
+T2 > Conflitos : 22
+T3 > Conflitos : 22
+T4 > Conflitos : 23
+T5 > Conflitos : 24
+T6 > Conflitos : 25
+T7 > Conflitos : 25
+T8 > Conflitos : 26
+T9 > Conflitos : 28
+T10 > Conflitos : 30
+T11 > Conflitos : 32
+
+Cycle 2 - Conflicts found: 7 (edges), 14 (vertices)
+
+Threads results:
+T0 > Conflitos : 15
+T1 > Conflitos : 17
+T2 > Conflitos : 18
+T3 > Conflitos : 18
+T4 > Conflitos : 20
+T5 > Conflitos : 23
+T6 > Conflitos : 23
+T7 > Conflitos : 25
+T8 > Conflitos : 25
+T9 > Conflitos : 28
+T10 > Conflitos : 29
+T11 > Conflitos : 36
+
+Cycle 3 - Conflicts found: 7 (edges), 14 (vertices)
+
+Threads results:
+T0 > Conflitos : 0
+T1 > Conflitos : 11
+T2 > Conflitos : 17
+T3 > Conflitos : 21
+T4 > Conflitos : 22
+T5 > Conflitos : 26
+T6 > Conflitos : 26
+T7 > Conflitos : 29
+T8 > Conflitos : 31
+T9 > Conflitos : 33
+T10 > Conflitos : 33
+T11 > Conflitos : 36
+
+Cycle 4 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 28
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 3.849628
+Spent Time.........................: 3.849627
+Spent time (ACO)...................: 1.742410
+Spent time (LS)....................: 2.107217
+Time to the best...................: 3.598202
+Total of cycles....................: 4
+Cycles to the best.................: 4
+Stop criterion.....................: 3
+-------------------------------------------------

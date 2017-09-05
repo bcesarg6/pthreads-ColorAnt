@@ -1,0 +1,60 @@
+Código executado via script automatizador de testes.
+09:10:35, 07/07/17, Friday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 28
+
+-------------------------------------------------
+COLORANT
+-------------------------------------------------
+Parameters:
+  Alpha..................................: 2.00
+  Beta...................................: 8.00
+  Rho....................................: 0.90
+  Ants...................................: 1024
+  Pheromone scheme.......................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  CPU threads............................: 6
+  K......................................: 28
+  Time...................................: 3600.00
+  Seed...................................: 45653128007445 (nrand)
+  Running on verbose mode.
+-------------------------------------------------
+
+Threads results:
+T0 > Conflitos : 0
+T1 > Conflitos : 17
+T2 > Conflitos : 19
+T3 > Conflitos : 23
+T4 > Conflitos : 24
+T5 > Conflitos : 26
+
+Cycle 1 - Conflicts found: 0 (edges), 0 (vertices)
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized.............: 28
+No. of conflicting edges...........: 0
+No. of conflicting vertices........: 0
+Real time..........................: 0.876126
+Spent Time.........................: 0.876125
+Spent time (ACO)...................: 0.509225
+Spent time (LS)....................: 0.366900
+Time to the best...................: 0.689002
+Total of cycles....................: 1
+Cycles to the best.................: 1
+Stop criterion.....................: 3
+-------------------------------------------------
